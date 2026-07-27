@@ -107,24 +107,29 @@ The [examples](examples/) demonstrate how these methods can be applied, while th
 ```text
 ai-prompt-engineering/
 |-- README.md
+|-- CONTRIBUTING.md
 |-- LICENSE
 |-- .gitignore
 |-- case-studies/
+|   |-- README.md
 |   |-- case-study-ai-evaluation.md
 |   |-- case-study-bug-analysis.md
 |   `-- case-study-documentation.md
 |-- docs/
+|   |-- README.md
 |   |-- ai-response-evaluation.md
 |   |-- prompt-design-principles.md
 |   |-- software-testing-and-qa.md
 |   |-- technical-documentation.md
 |   `-- technical-troubleshooting.md
 |-- examples/
+|   |-- README.md
 |   |-- documentation-review.md
 |   |-- response-evaluation.md
 |   |-- test-case-generation.md
 |   `-- troubleshooting.md
 `-- templates/
+    |-- README.md
     |-- bug-reproduction-template.md
     |-- documentation-template.md
     |-- response-evaluation-template.md
@@ -144,6 +149,8 @@ ai-prompt-engineering/
 Suggestions, corrections, and improvements are welcome.
 
 If you have ideas that improve prompt engineering, AI evaluation, documentation, or testing workflows, feel free to open an issue or submit a pull request.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the content and review guidelines.
 
 ## Disclaimer
 
