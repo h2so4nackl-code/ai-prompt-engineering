@@ -66,6 +66,8 @@ See [Prompt design principles](docs/prompt-design-principles.md) for a detailed 
 
 The [examples](examples/) demonstrate how these methods can be applied, while the [templates](templates/) provide reusable starting points. The [case studies](case-studies/) show how to apply the methodology to fictional, anonymized scenarios.
 
+For a companion handbook focused on response scoring, reviewer calibration, and evaluation consistency, see [AI Response Evaluation Lab](https://github.com/h2so4nackl-code/ai-response-evaluation-lab).
+
 ## Common mistakes
 
 - Starting with a vague objective
