@@ -68,6 +68,8 @@ The [examples](examples/) demonstrate how these methods can be applied, while th
 
 For a companion handbook focused on response scoring, reviewer calibration, and evaluation consistency, see [AI Response Evaluation Lab](https://github.com/h2so4nackl-code/ai-response-evaluation-lab).
 
+For complete worked evaluation reports across instruction following, reasoning, factuality, writing, technical, coding, safety, and multilingual tasks, see [AI Evaluation Portfolio](https://github.com/h2so4nackl-code/ai-evaluation-portfolio).
+
 ## Common mistakes
 
 - Starting with a vague objective
